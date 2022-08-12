@@ -1,4 +1,4 @@
-Solver
+# Solver 
 The Solver was implemented as specified in the prompt. The only
 time it acts incorrectly is when it receives a tray with more 
 than one '\*.' In this case the program will try to replace both
@@ -26,7 +26,7 @@ configurations while the best move letters track the highest
 scoring move. Blanks spaces on the Board are stored as a '#'.
 Then the algorithm does cross-checks and scoring.
 
-Scrabble
+# Scrabble Game
 The scrabble game was implement according to the prompt. To 
 play a word click a tile to pick it up and click a tile to place
 it. When you are ready to submit your move click submit move. 
